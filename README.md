@@ -17,3 +17,8 @@ Web Cam video in browser that allows you to distort the image and take a picture
 * toDataURL() - method of canvas used to download file
 * setAttribute() and insertBefore() methods
 
+### Ways to improve
+
+* Give more options for use to adjust settings
+* Improve styling eg the range inputs
+
